@@ -1,0 +1,4 @@
+services/.env
+services/node_modules
+dashboard/node_modules
+dashboard/.env
